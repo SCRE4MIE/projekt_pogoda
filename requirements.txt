@@ -1,0 +1,5 @@
+scipy==1.11.3
+numba==0.58.1
+pandas==2.1.1
+jupyter==1.0.0
+matplotlib==3.8.0
